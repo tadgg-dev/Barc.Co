@@ -13,9 +13,6 @@ class Usuario:
 
     def find_user(id):
         pass
-
-    def edit_usuer(id,payload):
-        pass
     
     def delete_user(id):
         pass
